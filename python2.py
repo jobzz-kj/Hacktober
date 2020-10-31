@@ -1,4 +1,4 @@
-x=int(input())
+q=int(input())
 y=int(input())
 z=int(input())
-print(x+y+z)
+print(q+y+z)
