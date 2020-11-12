@@ -2,5 +2,6 @@
 void main()
 {
   int x,y;
-  print("%d",x+y);
+  sum=x+y;
+  print("%d",sum);
 }
