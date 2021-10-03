@@ -1,7 +1,11 @@
 q=int(input())
 y=int(input())
 z=int(input())
-print(q-y-z)
+
+a=int(input())
 print(q+y+z)
 print(x-y+z)
+print(x-y+z+a)
+
 print("SARAVAN")
+
