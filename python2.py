@@ -1,5 +1,8 @@
-p=int(input())
+q=int(input())
 y=int(input())
-v=int(input())
-print(p+y+v)
-print(x-y+v)
+z=int(input())
+h=int(input())
+print(q+y+z)
+print(x-y+z)
+
+print(x-y+z-h)
