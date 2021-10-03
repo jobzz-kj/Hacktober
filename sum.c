@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-  int x,y;
-  cin>>x>>y;
-  print("%d",x+y);
+  int x,y,z;
+  cin>>x>>y>>z;
+  print("%d",x+y+z);
 }
