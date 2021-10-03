@@ -1,6 +1,8 @@
 x=int(input())
 y=int(input())
-if x>y:
+if x<y:
    print(x)
-else:
+elsif:
    print(y)
+else:
+   print("Invalid")
