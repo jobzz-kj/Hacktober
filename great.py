@@ -6,3 +6,4 @@ elif:
    print(y)
 else:
    print("Invalid")
+   print("Try not to enter equal numbers")
