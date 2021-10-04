@@ -1,4 +1,4 @@
-x=input()
+x=input("Enter a Number")
 y=input()
 z=input()
 print(z)
