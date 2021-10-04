@@ -1,6 +1,6 @@
 x=input()
 y=input()
-
+z=input()
 print(z)
 print(x)
 print(z+y)
