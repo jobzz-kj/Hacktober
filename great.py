@@ -1,8 +1,7 @@
-x=int(input())
-y=int(input())
+x,y=int(input().split())
 if x<y:
    print(x)
-elsif:
+elif x>=y:
    print(y)
 else:
    print("Invalid")
