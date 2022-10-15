@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
+  
 {
   int x,y;
   int a=10;
