@@ -7,8 +7,8 @@ elif:
 else:
    print("Invalid")
    print("Try not to enter equal numbers")
-"""
-# another way
-"".join([str(x) if x>y else str(y)])
-"""
+
+
+
+
 
