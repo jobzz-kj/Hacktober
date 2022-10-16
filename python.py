@@ -4,8 +4,7 @@ z=input()
 print(z)
 print(x)
 print(z+y)
-print(a)
+
 print("Hacktober is here!!!!")
 # play with input()
 
-print(input("Enter something"))
