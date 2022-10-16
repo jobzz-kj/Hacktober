@@ -7,4 +7,3 @@ print(z+y)
 
 print("Hacktober is here!!!!")
 # play with input()
-

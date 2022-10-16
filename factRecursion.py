@@ -20,4 +20,4 @@ num = 7
 
 # call the factorial function
 result = factorial(num)
-print("The factorial of", num, "is", result)
+
