@@ -3,9 +3,7 @@
 # import complex math module
 import cmath
 
-a = 1
-b = 5
-c = 6
+a,b,c = map(int,input('Enter inputs').split())
 
 # calculate the discriminant
 d = (b**2) - (4*a*c)
