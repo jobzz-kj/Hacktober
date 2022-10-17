@@ -1,10 +1,3 @@
-q=int(input())
-y=int(input())
-z=int(input())
-
-a=int(input())
-print(q+y+z)
-print(x-y+z)
-print('Sum is',x-y+z+a)
-print('Difference ',q-y)
-
+#Addition, Subtraction
+num1,num2,num3 = map(int,input('Enter input').split())
+print('Sum = ',num1+num2+num3,'Difference = ',num1-num2-num3)
