@@ -15,7 +15,7 @@ class shell(Cmd):
         
         
     def close(self):    
-        print("Exiting...")
+        print("Exiting the shell...")
         exit()
 
 s = shell()
