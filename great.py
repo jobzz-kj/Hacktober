@@ -1,5 +1,9 @@
+//Dynamic Entries from the user
 x=int(input())
 y=int(input())
+//Static Entries
+x=10
+y=5
 if x<y:
    print(x)
 elif x==y:
