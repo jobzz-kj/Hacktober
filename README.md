@@ -1,2 +1,2 @@
 # Hacktober
-Hi you have been hacked
+This repository is for hacktober
